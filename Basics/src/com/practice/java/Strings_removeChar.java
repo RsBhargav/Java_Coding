@@ -9,6 +9,8 @@ public class Strings_removeChar {
 		System.out.println("Enter the String : ");
 		String s1 = sc.nextLine();
 		
+		
+		sc.close();
 	}
 
 }
